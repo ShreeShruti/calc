@@ -1,0 +1,20 @@
+.calculator {
+  width: 250px;
+  height: 400px;
+  margin: 200px 50px 50px 500px;
+}
+
+.text {
+  width: 233px;
+  height: 31px;
+}
+
+.button {
+  border-style: groove;
+  color: black;
+  padding: 10px 10px;
+  width: 60px;
+  height: 44px;
+  text-align: center;
+  font-size: 15px;
+}
